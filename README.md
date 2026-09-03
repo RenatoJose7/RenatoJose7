@@ -34,4 +34,5 @@ Website profissional para hairstylist, com foco em portfólio e contato comercia
 
 LinkedIn: www.linkedin.com/in/renato-jose  
 Portfólio: https://renatojoseportifolio.vercel.app/ 
+
 Email: renatojosesfc@gmail.com
