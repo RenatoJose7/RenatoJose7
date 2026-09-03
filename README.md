@@ -1,16 +1,37 @@
-## Hi there 👋
+# Renato José
 
-<!--
-**RenatoJose7/RenatoJose7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focado no desenvolvimento de aplicações web, sistemas e soluções digitais para empresas.
 
-Here are some ideas to get you started:
+Atualmente curso Desenvolvimento de Sistemas e também atuo como cofundador da Mireva, desenvolvendo projetos reais para negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+JavaScript • TypeScript • React • HTML • CSS • Java • Git • GitHub
+
+## Projetos em destaque
+
+### Mireva
+Site institucional e projetos digitais desenvolvidos para a Mireva Design & Sistemas.
+
+### Dra. Jéssica Rosário
+Website profissional desenvolvido com foco em experiência do usuário, apresentação de serviços e conversão.
+
+### Elainne Andrade
+Landing page para atendimento psicológico, com apresentação de serviços e estrutura de agendamento.
+
+### Thiago Paulino
+Website profissional para hairstylist, com foco em portfólio e contato comercial.
+
+## Atualmente estudando
+
+- React
+- TypeScript
+- APIs
+- Desenvolvimento Full Stack
+- Inteligência Artificial aplicada ao desenvolvimento
+
+## Contato
+
+LinkedIn: coloque-o-link-aqui  
+Portfólio: coloque-o-link-aqui  
+Email: renatojosesfc@gmail.com
