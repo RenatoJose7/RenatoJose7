@@ -8,19 +8,6 @@ Atualmente curso Desenvolvimento de Sistemas e também atuo como cofundador da M
 
 JavaScript • TypeScript • React • HTML • CSS • Java • Git • GitHub
 
-## Projetos em destaque
-
-### Mireva
-Site institucional e projetos digitais desenvolvidos para a Mireva Design & Sistemas.
-
-### Dra. Jéssica Rosário
-Website profissional desenvolvido com foco em experiência do usuário, apresentação de serviços e conversão.
-
-### Elainne Andrade
-Landing page para atendimento psicológico, com apresentação de serviços e estrutura de agendamento.
-
-### Thiago Paulino
-Website profissional para hairstylist, com foco em portfólio e contato comercial.
 
 ## Atualmente estudando
 
